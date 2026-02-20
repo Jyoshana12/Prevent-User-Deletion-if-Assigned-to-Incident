@@ -25,6 +25,7 @@ The goal of this project is to make Incident Management:
 🚀 Features
 
 ✅ Prevent deletion of users assigned to active incidents
+
 ✅ Automatic validation using Business Rule
 ✅ Real-time error message display
 ✅ GlideRecord-based incident checking
